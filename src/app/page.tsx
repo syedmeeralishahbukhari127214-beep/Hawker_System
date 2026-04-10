@@ -193,7 +193,7 @@ export default function LandingPage() {
           <div className="p-6 bg-gray-900/50 backdrop-blur-sm border border-gray-800 rounded-2xl hover:bg-gray-800/50 hover:border-pink-500/50 transition-all duration-300 animate-fadeUp">
             <h3 className="text-pink-500 text-xl font-bold mb-2">Smart Location Tracking</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Let customers know your live location when you&apos;re ready to sell. Optimize your spot to attract more nearby buyers.
+              Let customers know your live locations when you&apos;re ready to sell. Optimize your spot to attract more nearby buyers.
             </p>
           </div>
           <div className="p-6 bg-gray-900/50 backdrop-blur-sm border border-gray-800 rounded-2xl hover:bg-gray-800/50 hover:border-pink-500/50 transition-all duration-300 animate-fadeUp">
