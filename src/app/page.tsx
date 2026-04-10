@@ -137,7 +137,7 @@ export default function LandingPage() {
           <FeatureCard
             icon={<FaMapMarkerAlt />}
             title="Dynamic Geo-fencing"
-            desc="Broadcast your live location to customers nearby only when you're ready to sell."
+            desc="Broadcast your live location to customers nearby only when you&apos;re ready to sell."
           />
           <FeatureCard
             icon={<FaQrcode />}
@@ -193,7 +193,7 @@ export default function LandingPage() {
           <div className="p-6 bg-gray-900/50 backdrop-blur-sm border border-gray-800 rounded-2xl hover:bg-gray-800/50 hover:border-pink-500/50 transition-all duration-300 animate-fadeUp">
             <h3 className="text-pink-500 text-xl font-bold mb-2">Smart Location Tracking</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Let customers know your live location when you’re ready to sell. Optimize your spot to attract more nearby buyers.
+              Let customers know your live location when you&apos;re ready to sell. Optimize your spot to attract more nearby buyers.
             </p>
           </div>
           <div className="p-6 bg-gray-900/50 backdrop-blur-sm border border-gray-800 rounded-2xl hover:bg-gray-800/50 hover:border-pink-500/50 transition-all duration-300 animate-fadeUp">
@@ -254,7 +254,7 @@ export default function LandingPage() {
       <div className="bg-gray-900/50 p-8 rounded-2xl border border-gray-800 hover:border-pink-500/40 transition-all">
         <h3 className="text-pink-500 font-bold text-xl mb-3">For Hawkers</h3>
         <ul className="text-gray-400 text-sm space-y-3">
-          <li>• Broadcast your location only when you're ready to sell.</li>
+          <li>• Broadcast your location only when you&apos;re ready to sell.</li>
           <li>• Manage products and prices easily from your dashboard.</li>
           <li>• Track earnings and business performance with analytics.</li>
           <li>• Build customer trust through digital interaction.</li>
